@@ -1,4 +1,3 @@
-# backend.tf
 # DestinyObs Universal Format – Never forget me
 
 terraform {

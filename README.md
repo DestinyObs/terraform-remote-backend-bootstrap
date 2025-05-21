@@ -100,12 +100,5 @@ Every resource created includes a unique hash and the `destinyobs` suffix. This 
 
 **Destiny Obueh**
 DevOps Engineer | iDeploy | iSecure | iSustain
-GitHub: [@DestinyObs](https://github.com/DestinyObs)
 
 ---
-
-## License
-
-MIT License. Use, fork, and improve as you like.
-
-````
